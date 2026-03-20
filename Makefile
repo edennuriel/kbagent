@@ -26,6 +26,10 @@ playground:
 	@echo "==============================================================================="
 	uv run adk web . --port 8501 --reload_agents
 
+api:
+	@echo " 🚀 Starting API server on port 8200 "
+	uv run adk api_server --port 8200 --reload_agents
+
 # ==============================================================================
 # Local Development Commands
 # ==============================================================================

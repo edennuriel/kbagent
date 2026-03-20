@@ -3,10 +3,12 @@
 Document Q&A with RAG pipeline
 Agent generated with [`googleCloudPlatform/agent-starter-pack`](https://github.com/GoogleCloudPlatform/agent-starter-pack) version `0.39.4`
 
+as a sugmodule here
+
 ## Project Structure
 
 ```
-ednrag/
+kbagent/
 ├── app/         # Core agent code
 │   ├── agent.py               # Main agent logic
 │   ├── fast_api_app.py        # FastAPI Backend server
