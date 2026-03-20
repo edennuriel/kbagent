@@ -1,0 +1,11 @@
+staging_project_id = "ednfde-uat-c4ef6fcc"
+prod_project_id = "ednfde-prod-625d6cfe"
+cicd_runner_project_id = "edn-base"
+region = "us-central1"
+repository_name = "edn-starter"
+repository_owner = "cloud-gtm"
+host_connection_name = "git-edn-starter"
+create_cb_connection = true
+create_repository = false
+github_app_installation_id = "97869911"
+github_pat_secret_id = "git-edn-starter-github-oauthtoken-e73571"
